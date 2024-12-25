@@ -4,6 +4,8 @@ Welcome to my project repository! Below is a summary of some of the projects I'v
 
 | 📂 **Project Name** | 📝 **Description**           | 🔗 **GitHub Link**                  | 🌐 **Live Link**                  |
 |----------------------|-----------------------------|-------------------------------------|-----------------------------------|
+| **BLOCKBAZAAR**       | Block Bazaar is a cryptocurrency price tracking app built with React and Vite. | [GitHub](https://github.com/Saquib-Anjum/BlockBazaar) | [Live](https://block-bazaar.vercel.app/) |
+| **IMDB CLONE**       | This is react based IMDB clone using TMDB API | [GitHub](https://github.com/Saquib-Anjum/IMDB-Clone) | [Live](https://imdb-clone-self-omega.vercel.app/) |
 | **SheetSpace**       | An Excel clone with robust features for managing data like a pro. | [GitHub](https://github.com/Saquib-Anjum/SheetSpace) | [Live](https://sheet-space.vercel.app/) |
 | **SketchSpace**| This interactive, real-time drawing canvas app.           | [GitHub](https://github.com/Saquib-Anjum/SketchSpace) | [Live](https://sketch-space-fbnssyg7d-saquib-anjums-projects.vercel.app/) |
 | **✨ Capture Haven🌟**   | A camera app with filters, timers, and video recording.           | [GitHub](https://github.com/Saquib-Anjum/Capture-Haven) | [Live](https://wonderful-tulumba-b2d4a8.netlify.app/) |
