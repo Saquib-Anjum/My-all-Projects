@@ -6,6 +6,7 @@ Welcome to my project repository! Below is a curated collection of the projects 
 
 | 📂 **Project Name** | 📝 **Description** | 🔗 **GitHub** | 🌐 **Live Demo** |
 |--------------------|------------------|---------------|-----------------|
+| 💎 **ShopZenith**  | ShopZenith 🛍️ - A modern, full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Featuring secure user authentication, Razorpay payments, an intuitive shopping cart, and a powerful admin dashboard for product and order management. Perfect for both shoppers and store administrators! 🚀| [GitHub](https://github.com/Saquib-Anjum/SHOPZENITH) | [Live](https://shopzenith-teal.vercel.app/) |
 | 💎 **BlockBazaar**  | Track cryptocurrency prices in real-time with a sleek React & Vite app. | [GitHub](https://github.com/Saquib-Anjum/BlockBazaar) | [Live](https://block-bazaar.vercel.app/) |
 | 🎬 **IMDB Clone**   | A React-based clone of IMDB using the TMDB API for movie tracking. | [GitHub](https://github.com/Saquib-Anjum/IMDB-Clone) | [Live](https://imdb-clone-self-omega.vercel.app/) |
 | 📊 **SheetSpace**   | A powerful Excel clone for managing data like a pro with advanced features. | [GitHub](https://github.com/Saquib-Anjum/SheetSpace) | [Live](https://sheet-space.vercel.app/) |
