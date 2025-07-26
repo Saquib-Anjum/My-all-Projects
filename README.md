@@ -6,6 +6,8 @@ Welcome to my project repository! Below is a curated collection of the projects 
 
 | 📂 **Project Name** | 📝 **Description** | 🔗 **GitHub** | 🌐 **Live Demo** |
 |--------------------|------------------|---------------|-----------------|
+| 🧼 **EraseMateAI**  | EraseMateAI is a blazing-fast, AI-powered background remover that helps users instantly erase backgrounds from images using the Clipdrop API. No complicated tools — just upload your image and get a clean result! 🪄| [GitHub](https://github.com/Saquib-Anjum/EraseMate-AI) | [Live](https://erase-mate-ai.vercel.app/) |
+| 🌿 **Gitsniff**  | GitSniff lets users log in securely with GitHub OAuth using Passport.js. With just one click, users can explore and analyze GitHub developer profiles in depth. 🚀| [GitHub](https://github.com/Saquib-Anjum/GitSniff) | [Live](https://github.com/Saquib-Anjum/GitSniff) |
 | 🛍️ **ShopZenith**  | ShopZenith 🛍️ - A modern, full-stack e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Featuring secure user authentication, Razorpay payments, an intuitive shopping cart, and a powerful admin dashboard for product and order management. Perfect for both shoppers and store administrators! 🚀| [GitHub](https://github.com/Saquib-Anjum/SHOPZENITH) | [Live](https://shopzenith-teal.vercel.app/) |
 | 💎 **BlockBazaar**  | Track cryptocurrency prices in real-time with a sleek React & Vite app. | [GitHub](https://github.com/Saquib-Anjum/BlockBazaar) | [Live](https://block-bazaar.vercel.app/) |
 | 🎬 **IMDB Clone**   | A React-based clone of IMDB using the TMDB API for movie tracking. | [GitHub](https://github.com/Saquib-Anjum/IMDB-Clone) | [Live](https://imdb-clone-self-omega.vercel.app/) |
